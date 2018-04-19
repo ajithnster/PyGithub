@@ -71,7 +71,7 @@ import Invitation
 
 atLeastPython3 = sys.hexversion >= 0x03000000
 
-DEFAULT_BASE_URL = "https://api.github.com"
+DEFAULT_BASE_URL = "https://github.ibm.com/api/v3"
 DEFAULT_TIMEOUT = 10
 DEFAULT_PER_PAGE = 30
 
